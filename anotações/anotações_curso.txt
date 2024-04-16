@@ -19,5 +19,5 @@ Aula 34 - Criando Super Usuario - já executado os comandos de makemigration que
 constroi os scripts sql e o migrate executam ele, agora com o comando python
 python manage.py creatatesuperuser definimos um super Usuario
 
-
+Aula 35 - Criando nosso primeiro modelo (Car) - minuto 9
 
