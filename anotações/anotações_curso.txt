@@ -1,0 +1,23 @@
+Iniciando o projeto
+
+1- django-admin startproject mysite # Inicia o Projeto django
+2- python manage.py runserver # Inicia o servidor do projeto
+3 - python manage.py startapp nome_app # define e cria uma pasta para app
+
+aula 31 - Arquivo Inicial de cars - 
+URL -> direciona para a pagina X que é uma view(conversa com models)
+-> models(ORM) -> DataBase
+
+Aula 32 - Makemigrations e migrate - makemigration percorre todos os apps
+que tem escrito comandos para o banco de dados. se tiver dados ele cria um Arquivo
+migrations
+
+Aula 33 - migrate - percorre todas as pastas migrations de todos os apps e vai
+executar esses scripts no banco de dados
+
+Aula 34 - Criando Super Usuario - já executado os comandos de makemigration que
+constroi os scripts sql e o migrate executam ele, agora com o comando python
+python manage.py creatatesuperuser definimos um super Usuario
+
+
+
