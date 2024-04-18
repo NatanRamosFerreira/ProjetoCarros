@@ -19,5 +19,7 @@ Aula 34 - Criando Super Usuario - já executado os comandos de makemigration que
 constroi os scripts sql e o migrate executam ele, agora com o comando python
 python manage.py creatatesuperuser definimos um super Usuario
 
-Aula 35 - Criando nosso primeiro modelo (Car) - minuto 9
+Aula 35 - Criando nosso primeiro modelo (Car) - Noções de ORM Para criar tab 
+no BANCO DE DADOS, Vi o Tipo Auto_Fild que gera o id , o CharFild para texto,
+IntegerFild para data, FloatFild
 
